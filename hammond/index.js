@@ -15,8 +15,6 @@ elements.map((e, i) => {
      }
   }
 })
-const canvas = document.getElementById("a")
-const canvasCtx = canvas.getContext("2d")
 
 const keyboard = new QwertyHancock({
                  id: 'keyboard',
